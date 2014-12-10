@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserMatcher.Lib", "UserMatcher.Lib\UserMatcher.Lib.csproj", "{1C993312-CF30-4D9E-B069-6DCD4D708BDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserMatcher.UnitTest", "UserMatcher.UnitTest\UserMatcher.UnitTest.csproj", "{6CB2B7FB-1AFC-4FDA-8BE5-EF23E2D459A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C993312-CF30-4D9E-B069-6DCD4D708BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C993312-CF30-4D9E-B069-6DCD4D708BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C993312-CF30-4D9E-B069-6DCD4D708BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C993312-CF30-4D9E-B069-6DCD4D708BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB2B7FB-1AFC-4FDA-8BE5-EF23E2D459A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB2B7FB-1AFC-4FDA-8BE5-EF23E2D459A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB2B7FB-1AFC-4FDA-8BE5-EF23E2D459A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB2B7FB-1AFC-4FDA-8BE5-EF23E2D459A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
